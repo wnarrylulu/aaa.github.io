@@ -1,15 +1,15 @@
 # Site settings
-name: 小可嗒嗒的博客
-email: maoxiaoke@outlook.com
-author: M/J
+name: WCL 的 Blog
+email: wnarry1996@gmail.com
+author: WCL
 url: http://xiaokedada.com
 resume_site: http://xiaokedada.com/me/
-github: https://github.com/maoxiaoke/
-baseurl: ""  #根目录
-description: 假如生活欺骗了你，不要悲伤，不要哭泣。
-motto: 我们笑着说再见，却深知再见遥遥无期。
+github: 
+baseurl: "https://wnarrylulu.github.io/aaa.github.io/"  #根目录
+description: A
+motto: B。
 #motto: 如果生活欺骗了你，不要悲伤，不要哭泣。
-banner: 我想带你去看绚丽的山峦，去看秀丽的溪谷，这份心情，人类是如何称呼的呢。
+banner: C
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
 excerpt_separator:  '<!-- more -->' #文章摘要
@@ -17,11 +17,11 @@ paginate: 8
 paginate_path: "page:num"
 gems: [jekyll-paginate]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
-github_username: maoxiaoke
+github_username: 
 highlighter: rouge
 markdown: kramdown
 FB:
   comments :
     provider : disqus
     disqus :
-        short_name : xiaokedada
+        short_name : 
